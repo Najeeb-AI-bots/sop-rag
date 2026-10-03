@@ -1,0 +1,16 @@
+{"q": "A seller's product was removed because the listing expired. Which policy and NRR Column R name applies?", "expected_source": "expired_products.md", "in_scope": true}
+{"q": "What GUID goes in NRR Column R for expired products?", "expected_source": "expired_products.md", "in_scope": true}
+{"q": "Units are sitting in the FC but the offer is inactive and can't sell. What is this and how do I fix it?", "expected_source": "stranded_inventory.md", "in_scope": true}
+{"q": "What's the descriptive name and GUID for stranded inventory?", "expected_source": "stranded_inventory.md", "in_scope": true}
+{"q": "Tier 1 OnCall could not resolve within SLA. What do I do next and what must the email include?", "expected_source": "lci_escalation.md", "in_scope": true}
+{"q": "Does LCI use watchers to escalate cases?", "expected_source": "lci_escalation.md", "in_scope": true}
+{"q": "Who owns routing to the correct resolver group in LCI escalation?", "expected_source": "lci_escalation.md", "in_scope": true}
+{"q": "A customer review violates policy. Can an LCI agent action it directly?", "expected_source": "customer_reviews.md", "in_scope": true}
+{"q": "What's the Column R name and GUID for a policy-violating customer review?", "expected_source": "customer_reviews.md", "in_scope": true}
+{"q": "How should I code time spent in a documented coaching conversation?", "expected_source": "npt_coding.md", "in_scope": true}
+{"q": "An agent logged a platform outage as a break. Is that correct?", "expected_source": "npt_coding.md", "in_scope": true}
+{"q": "A product shows up in the wrong category in search. Which policy covers fixing the category mapping?", "expected_source": "browse_node.md", "in_scope": true}
+{"q": "What is the GUID for a browse node update?", "expected_source": "browse_node.md", "in_scope": true}
+{"q": "What is the refund window for a customer return of electronics?", "expected_source": null, "in_scope": false}
+{"q": "What is the policy for counterfeit luxury handbags?", "expected_source": null, "in_scope": false}
+{"q": "How many vacation days do associates get per year?", "expected_source": null, "in_scope": false}
