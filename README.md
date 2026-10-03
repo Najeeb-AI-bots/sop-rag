@@ -2,7 +2,7 @@
 
 > Ask a natural-language policy question → get an answer grounded **only** in the indexed SOPs, with **cited sources** — and an honest **"Not found in current SOPs"** refusal when the answer isn't there. Hybrid retrieval + reranking + a real evaluation suite.
 
-**Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots) · Operations Manager → AI-Transformation builder
+**Built by:** [Mohammed Abdul Najeeb](https://github.com/Najeeb-AI-bots) · Operations Manager → AI-Transformation builder [Live: https://sop-rag.streamlit.app/]
 
 > 💡 Grounded in real contact-center operations: the demo corpus is a set of **synthetic** SOP/policy docs (expired products, stranded inventory, escalation tiers, customer reviews, NPT coding, browse-node updates). No real data.
 
